@@ -1,0 +1,5 @@
+Credentials cache: API:48B91995-2668-4D59-BE00-0ED4B8BA4789
+        Principal: asanson@42.FR
+
+  Issued                Expires               Principal
+Sep  7 11:22:45 2020  Sep 14 11:22:45 2020  krbtgt/42.FR@42.FR
